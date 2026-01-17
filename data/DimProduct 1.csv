@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,UnitPrice
+P101,Laptop,Electronics,65000
+P102,Smartphone,Electronics,35000
+P103,Headphones,Accessories,3000
+P104,Office Chair,Furniture,12000
+P105,Desk,Furniture,18000
+P106,Monitor,Electronics,15000
+P107,Keyboard,Accessories,2500
+P108,Mouse,Accessories,1500
