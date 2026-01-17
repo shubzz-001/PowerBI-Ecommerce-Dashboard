@@ -28,8 +28,5 @@ It provides insights into sales performance, product categories, regions, and tr
 - Top products
 - Interactive slicers
 
-## 📸 Dashboard Preview
-(Add screenshot here)
-
 ## 📌 Author
 Shubham Raje
